@@ -1,0 +1,13 @@
+f0<-1/4
+f1<-3/4
+numer0<-dbinom(7,20,1/3)*f0
+numer1<-dbinom(7,20,1/2)*f1
+denom<-numer0+numer1
+numer0
+numer1
+p0=numer0/denom
+p1=numer1/denom
+p0
+p1
+dbinom(7,20,1/3)
+dbinom(7,20,1/2)
