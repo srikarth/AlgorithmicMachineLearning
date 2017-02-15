@@ -1,1 +1,1 @@
-# AlgortithicMachineLearning
+# AlgorithmicMachineLearning
